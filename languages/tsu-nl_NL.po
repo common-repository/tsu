@@ -1,0 +1,86 @@
+# Copyright (C) 2014 Tsu
+# This file is distributed under the same license as the Tsu package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tsu 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tsu\n"
+"POT-Creation-Date: 2014-12-29 16:15:21+00:00\n"
+"PO-Revision-Date: 2014-12-29 17:25+0100\n"
+"Last-Translator: Armando Lüscher <armando@noplanman.ch>\n"
+"Language-Team: NL\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: inc/class-tsu-version-check.php:44
+msgid ""
+"Tsu plugin requires at least WordPress %1$s (you have %2$s) and PHP %3$s "
+"(you have %4$s)!"
+msgstr ""
+"De Tsu plugin vereist minimaal WordPress versie %1$s (jij hebt %2$s) en PHP "
+"%3$s (jij hebt %4$s)!"
+
+#: inc/class-tsu-version-check.php:66
+msgid "Plugin Activation Error"
+msgstr "Plugin activatie fout"
+
+#: inc/class-tsu-widget.php:29
+msgid "Place a link to your Tsu profile in your Sidebar."
+msgstr "Plaats een link in jouw Tsu profiel in de Sidebar"
+
+#: inc/class-tsu-widget.php:38
+msgid "Tsu Widget"
+msgstr "Tsu Widget"
+
+#: inc/class-tsu-widget.php:88
+msgid "Tsu Logo"
+msgstr "﻿Tsu Logo"
+
+#: inc/class-tsu-widget.php:137
+msgid "Follow me on Tsu"
+msgstr "Volg mij op Tsu"
+
+#: inc/class-tsu-widget.php:144
+msgid "Title"
+msgstr "Titel "
+
+#: inc/class-tsu-widget.php:145
+msgid "User ID"
+msgstr "Gebruikers ID"
+
+#: inc/class-tsu-widget.php:146
+msgid "Name to display"
+msgstr "Naam om te tonen"
+
+#: inc/class-tsu-widget.php:147
+msgid "Show logo?"
+msgstr "Toon logo?"
+
+#: inc/class-tsu-widget.php:148
+msgid "Logo size"
+msgstr "Logo afmeting"
+
+#. Plugin Name of the plugin/theme
+msgid "Tsu"
+msgstr "Tsu"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.tsu.co/noplanman"
+msgstr "﻿https://www.tsu.co/noplanman"
+
+#. Description of the plugin/theme
+msgid "Tsu widget to share your profile / invitation with your readers."
+msgstr ""
+"Tsu widget om jouw Tsu profiel te delen / Tsu uitnodiging voor jouw lezers"
+
+#. Author of the plugin/theme
+msgid "Armando Lüscher"
+msgstr "Armando Lüscher"
+
+#~ msgid "http://noplanman.ch/"
+#~ msgstr "http://noplanman.ch/"
